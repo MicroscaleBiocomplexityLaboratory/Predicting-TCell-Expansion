@@ -31,8 +31,5 @@ Predicting-TCell-Expansion/ 
 ```bash git clone https://github.com/MicroscaleBiocomplexityLaboratory/Predicting-TCell-Expansion.git cd Predicting-TCell-Expansion pip install -r requirements.txt ```
 Open the notebooks in `notebooks/` or `ml/` and follow the steps for classification or regression.
 
-📄 Citation
-If you use this repository, please cite:  Wang X, Xu R, Hu S, Sun D, Guo J, Lamanna N, Kam LC. Predicting Mechanosensitive T Cell Expansion from Cell Spreading, Advanced Healthcare Materials, 2024.
-
 📬 Contact
 Developed by the Microscale Biocomplexity Laboratory Columbia University GitHub: https://github.com/MicroscaleBiocomplexityLaboratory
