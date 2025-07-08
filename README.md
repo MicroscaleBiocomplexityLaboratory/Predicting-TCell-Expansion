@@ -9,11 +9,11 @@ T cell behavior is shaped by complex biophysical cues, including surface stiffne
 
 We developed pipelines to: 
 - 📊 Classify Healthy vs. CLL T cells
-- 📈 Predict Expansion Index from single-cell morphology
+- 📈 Predict Expansion Index from T Cell Spreading Images
 - 🔍 Analyze how surface rigidity affects activation and exhaustion
 
 🧠 Key Features
-- ✅ Classical ML with PCA + Decision Tree on morphological features
+- ✅ Classical ML with Decision Tree and Random Forest on morphological features
 - 🧠 Deep Learning with Swin Transformer on patch-level image data
 - 🔬 Morphological profiling of cell spreading on tunable surfaces
 - 📁 Organized codebase for reproducibility and extension
